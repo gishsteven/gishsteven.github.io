@@ -1,0 +1,1 @@
+gem 'gethub-pages'

@@ -1,2 +1,2 @@
 source 'https://rubygems.org'
-gem 'gethub-pages'
+gem 'gethub-pages (>=0) ruby'

@@ -1,77 +1,18 @@
-<!doctype html>
-<!-- The Time Machine GitHub pages theme was designed and developed by Jon Rohan, on Feb 7, 2012. -->
-<!-- Follow him for fun. http://twitter.com/jonrohan. Tail his code on https://github.com/jonrohan -->
-<html>
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+---
+layout: default
+---
 
-  <link rel="stylesheet" href="stylesheets/stylesheet.css" media="screen">
-  <link rel="stylesheet" href="stylesheets/github-dark.css">
-  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-  <script type="text/javascript" src="javascripts/script.js"></script>
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
 
-  <title>Steven Nam D. Le</title>
-  <meta name="description" content="&quot;I believe in the pursuit of happiness. Not its attainment, nor its final destination, but its pursuit.&quot;">
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-
-</head>
-
-<body>
-
-  <div class="wrapper">
-    <header>
-      <h1 class="title">Steven Nam D. Le</h1>
-    </header>
-    <div id="container">
-      <p class="tagline">&quot;I believe in the pursuit of happiness. Not its attainment, nor its final destination, but its pursuit.&quot;</p>
-      <div id="main" role="main">
-        <div class="download-bar">
-        <div class="inner">
-          <a href="https://github.com/gishsteven" class="code">View Steven Nam D. Le on GitHub</a>
-        </div>
-        <span class="blc"></span><span class="trc"></span>
-        </div>
-        <article class="markdown-body">
-          <h3>
-<a id="in-construction-bow" class="anchor" href="#in-construction-bow" aria-hidden="true"><span class="octicon octicon-link"></span></a>In Construction <img class="emoji" title=":bow:" alt=":bow:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f647.png" height="20" width="20" align="absmiddle">.</h3>
-
-<h2>
-<a id="about-me" class="anchor" href="#about-me" aria-hidden="true"><span class="octicon octicon-link"></span></a>About Me</h2>
-
-<h2>
-<a id="gish" class="anchor" href="#gish" aria-hidden="true"><span class="octicon octicon-link"></span></a>Gish</h2>
-
-<h2>
-<a id="bucket-list" class="anchor" href="#bucket-list" aria-hidden="true"><span class="octicon octicon-link"></span></a>Bucket-List</h2>
-
-<p><a href="http://xsndl.tumblr.com/post/113268571195/sndls-bucket-list">Personal Bucket List</a></p>
-
-<h2>
-<a id="books" class="anchor" href="#books" aria-hidden="true"><span class="octicon octicon-link"></span></a>Books</h2>
-
-<p>Having trouble with Pages? Check out our <a href="https://help.github.com/pages">documentation</a> or <a href="https://github.com/contact">contact support</a> and we’ll help you sort it out.</p>
-        </article>
+      <div class="entry">
+        {{ post.excerpt }}
       </div>
-    </div>
-    <footer>
-      <div class="owner">
 
-      <p><a href="https://github.com/gishsteven" class="avatar"><img src="https://avatars1.githubusercontent.com/u/15023244?v=3&amp;s=60" width="48" height="48"></a>View <a href="https://github.com/gishsteven">gishsteven</a> on <a href="https://www.github.com">GitHub</a></p>
-
-      </div>
-      <div class="creds">
-        <small>This page generated using <a href="https://pages.github.com/">GitHub Pages</a><br>theme by <a href="https://twitter.com/jonrohan/">Jon Rohan</a></small>
-      </div>
-    </footer>
-  </div>
-  <div class="current-section">
-    <a href="#top">Scroll to top</a>
-    <a href="https://github.com/gishsteven/gishsteven.github.io/tarball/master" class="tar">tar</a><a href="https://github.com/gishsteven/gishsteven.github.io/zipball/master" class="zip">zip</a><a href="" class="code">source code</a>
-    <p class="name"></p>
-  </div>
-
-  
-</body>
-</html>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>

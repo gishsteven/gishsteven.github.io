@@ -8,11 +8,20 @@
     
       <item>
         <title>Good Morning</title>
-        <description>&lt;p&gt;This website is currently in construction :bow:.&lt;/p&gt;
+        <description>&lt;p&gt;This website is currently in construction. &lt;img class=&#39;emoji&#39; title=&#39;:zzz:&#39; alt=&#39;:zzz:&#39; src=&#39;https://assets.github.com/images/icons/emoji/unicode/1f4a4.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 25 Oct 2015 00:00:00 -0700</pubDate>
         <link>http://www.xsndl.me/Hello-World/</link>
         <guid isPermaLink="true">http://www.xsndl.me/Hello-World/</guid>
+      </item>
+    
+      <item>
+        <title>Day 2</title>
+        <description>&lt;p&gt;testing. &lt;img class=&#39;emoji&#39; title=&#39;:zzz:&#39; alt=&#39;:zzz:&#39; src=&#39;https://assets.github.com/images/icons/emoji/unicode/1f4a4.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 25 Oct 2015 00:00:00 -0700</pubDate>
+        <link>http://www.xsndl.me/Day-2/</link>
+        <guid isPermaLink="true">http://www.xsndl.me/Day-2/</guid>
       </item>
     
   </channel>

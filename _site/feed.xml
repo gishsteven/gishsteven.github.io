@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <description></description>
-    <link></link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <title>Steven Nam D. Le</title>
+    <description>Human Being in the works.</description>
+    <link>http://www.xsndl.me</link>
+    <atom:link href="http://www.xsndl.me/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Good Morning</title>
         <description>&lt;p&gt;This website is currently in construction :bow:.&lt;/p&gt;
-
 </description>
-        <pubDate>Mon, 03 Mar 2014 00:00:00 -0800</pubDate>
-        <link>/2014/03/03/Hello-World.html</link>
-        <guid isPermaLink="true">/2014/03/03/Hello-World.html</guid>
+        <pubDate>Sun, 25 Oct 2015 00:00:00 -0700</pubDate>
+        <link>http://www.xsndl.me/Hello-World/</link>
+        <guid isPermaLink="true">http://www.xsndl.me/Hello-World/</guid>
       </item>
     
   </channel>

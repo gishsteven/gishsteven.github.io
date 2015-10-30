@@ -70,6 +70,10 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jemoji		   # Emojis 
+  - jekyll-mentions
+  - jekyll-redirect-from
+  
+  - jekyll-feed
 # Exclude these files from your production _site
 exclude:
     - Gemfile

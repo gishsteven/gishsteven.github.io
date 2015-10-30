@@ -9,8 +9,8 @@ name: Steven Nam D. Le
 description: Human Being in the works. 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-[SNDL](/images/sndl.jpg "SNDL")
-# https://avatars1.githubusercontent.com/u/15023244?v=3&s=400!
+avatar:  https://avatars1.githubusercontent.com/u/15023244?v=3&s=400
+# ![SNDL](/images/sndl.jpg "SNDL")
 
 
 #
@@ -64,12 +64,16 @@ version: v1.1.0
 
 # Set the Sass partials directory, as we're using @imports
 sass:
-  style: :expanded # You might prefer to minify using :compressed
+  style: :compressed #:expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-
+  - jemoji		   # Emojis 
+  - jekyll-mentions
+  - jekyll-redirect-from
+  
+  -jekyll-feed
 # Exclude these files from your production _site
 exclude:
     - Gemfile

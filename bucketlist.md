@@ -5,9 +5,135 @@ permalink: /bucketlist/
 published: true
 ---
 
-### About Me
-A Bucketlist!
+### A Personal Bucketlist
 
-### Contact me
+Finish Boiling Crab Date List (Current Tally: 60 People)
+Hike Mt. Diablo
+Get CPR Certified
+Get First Aid Certification
+Learn Ballroom Dancing
+Learn How to Mix Drinks/Bartending
+Visit Solvang Town
+Kayaking
+White Water River Rafting
+Get a Tattoo
+Attend a Movie in the Park
+Learn to Drive a Manual Car
+Three Activities [Get my hands dirty] : Bouldering, Volleyball, ???
+Scuba Diving
+Volunteer with Children
+Skydiving
+Read to Children (at age 25)
+Oysters at Hogs Island
+Skydiving
+Visit the Aquarium
+Go to a Comedy Improv Show
+Visit the Science Museum
+Learn a Wind Instrument: Harmonica
+Build a Dandelion Garden
+Go Camping Everywhere
+Paint & Wine Studio
+Escape Room
+Work at a Coffee House: B2
+Work as a Server
+The Tabard Theater Company
+Go Vegetarian for 49 Days
+Do a One-Handed Pull-up
+Learn Basic Astrology
+Work as a Florist
+Visit an Observatory
+Go Wine Tasting
+Visit Alcatraz
+Go Biking [Buy a Road Bike]
+Weigh 135lbs (Current: 123lbs)
+Rosicrucian Egyptian Museum
+Winchester Mystery House
+City Lights Theater
+Go Mini-Golfing [Drunk]
+Go Geocatching
+Make a Cup (Color Me Mine, Ect.)
+Pottery Classes
+Go on an Audiobook Date
+Plant a Tree
+Visit San Jose Improv
+Pug Sundays
+San Jose Jazz
+Compete in Tough Mudder
+Get a Motorcycle License
+Hike Mission Peak Barefoot
+Hot Air Balloon
+Learn Cooking Skills [From Mother]
+Go Ice Skating [ON A LAKE]
+Cook Crawfish
+Cat Cafe
+Go on a Cruise
+Learn Self Defense: Boxing
+Fly a Kite [On a Mountain]
+Pull a Yes-Man; Take a Spontaneous Trip
+Fill a Journal Completely
+Buy a drink for a Stranger (Coffee)
+Watch a Musical
+Volunteer at a Hospice
+Rebuild my Tree House
+Swim with Dolphins
+Fix my Swing Set
+Get a Computer Engineering Internship
+Learn to Cappuccino Art
+Build a Dog House
+Go Paragliding
+Watch all Studio Ghibli Films
+Go Horseback Riding
+Read a Million Books
+Adopt a Child
+Live in a Studio
+Own a Library
+3-Stock Allan at Smash 4
+Help Finish Someone’s Bucketlist
+Find someone to Grow with.
+Visit  a Bunch of Coffee Houses:
+Roy’s Station
+Crema
+Mission Coffee
+Cafe Legato
+B2 Coffee
+Bellanos
+Chromatic Coffee
+Philz Coffee
+Bean Coffee and Tea Leaf
+Cafe Frasceti
+Verve
+Devout
+Hannah
+Bitter+Sweet
+Barefoot Coffee
+Viva Coffee
+Timeless Coffee
+Andytown
+Blue Bottle Coffee
+Ritual Coffee Roasters
+Four Barrel
+Front Cafe
+Sightglass
+Stable
+Stanza
+Hollow
+Echo
+Travel
+Norway - The Midnight Sun
+India - Diwali Festival (Festival of Lights)
+Canada - Watch the Northern Lights
+Finland - Kaljakellunta (Beer Floating)
+Japan - Studio Ghibli Museum
+Australia - Get Swooped by a Magpie; Great Barrier Reef
+Cape Town - Boulders Beach (Meet ‘Jackass’ Penguins)
+Rarotonga - Cook Islands
+South America - Trek the Inca Trail
+South Africa, Cape Town - Stargazing
+Galicia, Spain - “The Country of a Thousand Rivers”; roll in the grass.
+Japan - See Cherry Blossoms; And the Random Vending Machines
+England - Windsor Castle (Claim the Castle for yourself)
+Bhutan - Spirit Walk
+Bolivia, Salar de Uyuni - World’s Largest Salt Flat (Mirror Lake)
+??? - Cheese Pushing Festival
 
-[stevennam.le@sjsu.edu](mailto:stevennam.le@sjsu.edu)
+

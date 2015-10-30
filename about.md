@@ -6,12 +6,11 @@ published: true
 ---
 
 
-:bow:
 
-### More Information
+### About Me
+In development!
 
-A place to include any other types of information that you'd like to include about yourself
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[stevennam.le@sjsu.edu](mailto:stevennam.le@sjsu.edu)

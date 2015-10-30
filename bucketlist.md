@@ -9,6 +9,7 @@ published: true
 ### A Personal Bucketlist
 
 - Finish Boiling Crab Date List (Current Tally: 60 People)
+
 - Hike Mt. Diablo
 - ~~Get CPR Certified~~
 - Get First Aid Certification

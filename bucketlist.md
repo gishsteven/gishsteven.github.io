@@ -8,21 +8,21 @@ published: true
 
 ### A Personal Bucketlist
 
--Finish Boiling Crab Date List (Current Tally: 60 People)
--Hike Mt. Diablo
--~~Get CPR Certified~~
--Get First Aid Certification
--Learn Ballroom Dancing
--Learn How to Mix Drinks/Bartending
--Visit Solvang Town
--Kayaking
--White Water River Rafting
--Get a Tattoo
--Attend a Movie in the Park
--Learn to Drive a Manual Car
--Three Activities [Get my hands dirty] : Bouldering, Volleyball, ???
--Scuba Diving
--Volunteer with Children
+- Finish Boiling Crab Date List (Current Tally: 60 People)
+- Hike Mt. Diablo
+- ~~Get CPR Certified~~
+- Get First Aid Certification
+- Learn Ballroom Dancing
+- Learn How to Mix Drinks/Bartending
+- Visit Solvang Town
+- Kayaking
+- White Water River Rafting
+- Get a Tattoo
+- Attend a Movie in the Park
+- Learn to Drive a Manual Car
+- Three Activities [Get my hands dirty] : Bouldering, Volleyball, ???
+- Scuba Diving
+- Volunteer with Children
 -Skydiving
 -Read to Children (at age 25)
 -Oysters at Hogs Island

@@ -6,8 +6,8 @@ published: true
 ---
 
 ### About Me
-In development! :zzz:
-
+In development! 
+:zzz:
 
 ### Contact me
 

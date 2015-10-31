@@ -8,10 +8,29 @@ published: true
 
 ### A Personal Bucketlist
 
-- Finish Boiling Crab Date List (Current Tally: 60 People)
 
+#Travel
+-   Norway - The Midnight Sun
+-   India - Diwali Festival (Festival of Lights)
+-   Canada - Watch the Northern Lights
+-   Finland - Kaljakellunta (Beer Floating)
+-   Japan - Studio Ghibli Museum
+-   Australia - Get Swooped by a Magpie; Great Barrier Reef
+-   Cape Town - Boulders Beach (Meet ‘Jackass’ Penguins)
+-   Rarotonga - Cook Islands
+-   South America - Trek the Inca Trail
+-   South Africa, Cape Town - Stargazing
+-   Galicia, Spain - “The Country of a Thousand Rivers”; roll in the grass.
+-   Japan - See Cherry Blossoms; And the Random Vending Machines
+-   England - Windsor Castle (Claim the Castle for yourself)
+-   Bhutan - Spirit Walk
+-   Bolivia, Salar de Uyuni - World’s Largest Salt Flat (Mirror Lake)
+
+#Misc
+- Finish Boiling Crab Date List (Current Tally: 60 People)
 - Hike Mt. Diablo
-- ~~Get CPR Certified~~
+-  ~~Get~~CPR~~Certified~~
+~CPR Certified~
 - Get First Aid Certification
 - Learn Ballroom Dancing
 - Learn How to Mix Drinks/Bartending
@@ -94,19 +113,4 @@ published: true
 - Find someone to Grow with.
 
 
-- Travel
-		- Norway - The Midnight Sun
-- India - Diwali Festival (Festival of Lights)
-- Canada - Watch the Northern Lights
-- Finland - Kaljakellunta (Beer Floating)
-- Japan - Studio Ghibli Museum
-- Australia - Get Swooped by a Magpie; Great Barrier Reef
-- Cape Town - Boulders Beach (Meet ‘Jackass’ Penguins)
-- Rarotonga - Cook Islands
-- South America - Trek the Inca Trail
-- South Africa, Cape Town - Stargazing
-- Galicia, Spain - “The Country of a Thousand Rivers”; roll in the grass.
-- Japan - See Cherry Blossoms; And the Random Vending Machines
-- England - Windsor Castle (Claim the Castle for yourself)
-- Bhutan - Spirit Walk
-- Bolivia, Salar de Uyuni - World’s Largest Salt Flat (Mirror Lake)
+

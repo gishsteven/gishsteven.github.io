@@ -5,7 +5,7 @@ permalink: /bucketlist/
 published: true
 ---
 
-*testing* strikethrough ~~strikes!~~
+<strike>*testing* strikethrough ~~strikes!~~</strike>
 
 ##Travel
 -   Norway - The Midnight Sun

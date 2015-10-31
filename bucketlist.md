@@ -5,11 +5,9 @@ permalink: /bucketlist/
 published: true
 ---
 
+*testing* strikethrough ~~strikes!~~
 
-### A Personal Bucketlist
-
-
-#Travel
+##Travel
 -   Norway - The Midnight Sun
 -   India - Diwali Festival (Festival of Lights)
 -   Canada - Watch the Northern Lights
@@ -26,11 +24,10 @@ published: true
 -   Bhutan - Spirit Walk
 -   Bolivia, Salar de Uyuni - World’s Largest Salt Flat (Mirror Lake)
 
-#Misc
+##Misc
 - Finish Boiling Crab Date List (Current Tally: 60 People)
 - Hike Mt. Diablo
 -  ~~Get~~CPR~~Certified~~
-~CPR Certified~
 - Get First Aid Certification
 - Learn Ballroom Dancing
 - Learn How to Mix Drinks/Bartending

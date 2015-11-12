@@ -17,8 +17,8 @@ published: true
 -   South America - Trek the Inca Trail
 -   South Africa, Cape Town - Stargazing
 -   Galicia, Spain - “The Country of a Thousand Rivers”; roll in the grass.
--   Japan - See Cherry Blossoms; And the Random Vending Machines
--   England - Windsor Castle (Claim the Castle for yourself)
+-   Japan - Cherry Blossoms and the Random Vending Machines
+-   England - Windsor Castle 
 -   Bhutan - Spirit Walk
 -   Bolivia, Salar de Uyuni - World’s Largest Salt Flat (Mirror Lake)
 -   Seattle
@@ -81,3 +81,4 @@ published: true
 - Own a Library
 - 3-Stock Allan at Smash 4
 - Help Someone finish their Bucketlist
+- ...

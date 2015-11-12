@@ -5,8 +5,6 @@ permalink: /bucketlist/
 published: true
 ---
 
-<strike>*testing* strikethrough ~~strikes!~~</strike>
-
 ##Travel
 -   Norway - The Midnight Sun
 -   India - Diwali Festival (Festival of Lights)
@@ -23,80 +21,56 @@ published: true
 -   England - Windsor Castle (Claim the Castle for yourself)
 -   Bhutan - Spirit Walk
 -   Bolivia, Salar de Uyuni - World’s Largest Salt Flat (Mirror Lake)
+-   Seattle
+-   New York
+-   Chicago
+-   California, Solvang Town
 
 ##Misc
 - Finish Boiling Crab Date List (Current Tally: 60 People)
 - Hike Mt. Diablo
--  ~~Get~~CPR~~Certified~~
-- Get First Aid Certification
+- <strike>CPR Certification</strike>
+- <strike>First Aid Certification</strike>
 - Learn Ballroom Dancing
-- Learn How to Mix Drinks/Bartending
-- Visit Solvang Town
+- Learn How to Mix Drinks
 - Kayaking
-- White Water River Rafting
+- White Water Rafting
 - Get a Tattoo
-- Attend a Movie in the Park
 - Learn to Drive a Manual Car
-- Three Activities [Get my hands dirty] : Bouldering, Volleyball, ???
+- Three Activities [Get my hands dirty] : Bouldering, Volleyball, Calligraphy
 - Scuba Diving
 - Volunteer with Children
+- <strike>Oysters at Hogs Island</strike>
 - Skydiving
-- Read to Children (at age 25)
-- Oysters at Hogs Island
-- Skydiving
-- Visit the Aquarium
-- Go to a Comedy Improv Show
-- Visit the Science Museum
 - Learn a Wind Instrument: Harmonica
 - Build a Dandelion Garden
 - Go Camping Everywhere
 - Paint & Wine Studio
-- Escape Room
-- Work at a Coffee House: B2
-- Work as a Server
-- The Tabard Theater Company
-- Go Vegetarian for 49 Days
+- <strike>Get employed at a Coffee Shop</strike>
+- Get employed as a Server
+- <strike>Go Vegetarian for 49 Days</strike>
 - Do a One-Handed Pull-up
 - Learn Basic Astrology
-- Work as a Florist
-- Visit an Observatory
-- Go Wine Tasting
-- Visit Alcatraz
+- Get employed as a Florist
 - Go Biking [Buy a Road Bike]
 - Weigh 135lbs (Current: 123lbs)
-- Rosicrucian Egyptian Museum
-- Winchester Mystery House
-- City Lights Theater
-- Go Mini-Golfing [Drunk]
-- Go Geocatching
-- Make a Cup (Color Me Mine, Ect.)
-- Pottery Classes
 - Go on an Audiobook Date
 - Plant a Tree
-- Visit San Jose Improv
-- Pug Sundays
-- San Jose Jazz
 - Compete in Tough Mudder
-- Get a Motorcycle License
-- Hike Mission Peak Barefoot
-- Hot Air Balloon
+- Obtain a Motorcycle License
+- <strike>Hike Mission Peak Barefoot</strike>
+- Hot Air Ballooning
 - Learn Cooking Skills [From Mother]
 - Go Ice Skating [ON A LAKE]
 - Cook Crawfish
-- Cat Cafe
-- Go on a Cruise
+- <strike>Go on a Cruise</strike>
 - Learn Self Defense: Boxing
 - Fly a Kite [On a Mountain]
-- Pull a Yes-Man; Take a Spontaneous Trip
-- Fill a Journal Completely
 - Buy a drink for a Stranger (Coffee)
-- Watch a Musical
-- Volunteer at a Hospice
-- Rebuild my Tree House
-- Swim with Dolphins
-- Fix my Swing Set
+- Watch the Lion King Musical
+- Build an Air Garden
 - Get a Computer Engineering Internship
-- Learn to Cappuccino Art
+- <strike>Learn Latte Art</strike>
 - Build a Dog House
 - Go Paragliding
 - Watch all Studio Ghibli Films
@@ -106,8 +80,4 @@ published: true
 - Live in a Studio
 - Own a Library
 - 3-Stock Allan at Smash 4
-- Help Finish Someone’s Bucketlist
-- Find someone to Grow with.
-
-
-
+- Help Someone finish their Bucketlist

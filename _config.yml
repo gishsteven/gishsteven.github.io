@@ -15,3 +15,5 @@ github_username: gishsteven
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-midnight

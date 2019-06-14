@@ -7,11 +7,12 @@
 
 # Site settings
 title: SNDL
-email: stevennam.le@sjsu.edu
-description: A personal website just for fun.
+email: gishsteven@gmail.com
+description: Some guy who likes coffee and crawfish.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://xsndl.com/about" # the base hostname & protocol for your site
+url: "https://stevennamdangle.com/" # the base hostname & protocol for your site
 github_username: gishsteven
+favicon: "images/favicon.ico"
 
 # Build settings
 markdown: kramdown

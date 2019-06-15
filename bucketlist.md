@@ -5,7 +5,7 @@ permalink: /bucketlist/
 published: true
 ---
 
-##Travel
+## Travel
 -   Norway - The Midnight Sun
 -   India - Diwali Festival (Festival of Lights)
 -   Canada - Watch the Northern Lights
@@ -26,7 +26,7 @@ published: true
 -   Chicago
 -   California, Solvang Town
 
-##Misc
+## Misc
 - Finish Boiling Crab Date List (Current Tally: 60 People)
 - Hike Mt. Diablo
 - <strike>CPR Certification</strike>

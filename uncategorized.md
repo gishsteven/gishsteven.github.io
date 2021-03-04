@@ -20,3 +20,9 @@ published: true
 # What I am Reading in 2021
  - [Algorithms to Live By - Brian Christian](https://www.audible.com/pd/Algorithms-to-Live-By-Audiobook/B01D24NLWO?ref=a_library_t_c5_libItem_&pf_rd_p=85df3330-9dc4-4a45-ae69-93cc2fc25ca4&pf_rd_r=BACYVZEPWYVRGH5RQWYP)
  - [Atomic Habits - James Clear](https://www.audible.com/pd/Atomic-Habits-Audiobook/1524779261?ref=a_library_t_c5_libItem_&pf_rd_p=85df3330-9dc4-4a45-ae69-93cc2fc25ca4&pf_rd_r=BACYVZEPWYVRGH5RQWYP)
+
+# TODO
+ - [ ] Resume
+ - [ ] Update Bucketlist
+ - [ ] Add Projects: Myriapod and Breathalyzer Lockbox
+ - [ ] Add Date Ideas

@@ -15,9 +15,10 @@ The main idea for this project was for it to be used as a storage container to p
 The initial design was very tounge in cheek and honestly made a quirky party gift when the programming was reversed; if the alcohol content was detected above a certain level.. The box would unlock itself to reveal.. more alcohol!
 
 <p align="center">
-  <img src="/images/Lockbox_Front.JPG" alt="drawing" width="300" height"="auto"/>
+  <img src="gishsteven.github.io/images/Lockbox_Front.JPG" width="300" height"="auto"/>
   <img src="/images/Lockbox_Back.JPG" alt="drawing" width="300" height"="auto"/>
 </p>
+
 
 Note: Resize Images
 

@@ -20,6 +20,6 @@ The initial design was very tounge in cheek and honestly made a quirky party gif
 
 Note: Resize Images
 
-<img src="/images/Lockbox_Blue.JPG" alt="drawing" width="300" height"="auto">
-<img src="/images/Lockbox_Red.JPG" alt="drawing" width="300" height"="auto">
-<img src="/images/Lockbox_Green.JPG" alt="drawing" width="300" height"="auto">
+<img src="/images/Lockbox_Blue.JPG" alt="drawing2" width="300" height"="auto">
+<img src="/images/Lockbox_Red.JPG" alt="drawing3" width="300" height"="auto">
+<img src="/images/Lockbox_Green.JPG" alt="drawing4" width="300" height"="auto">

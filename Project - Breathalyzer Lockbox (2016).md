@@ -15,13 +15,11 @@ The main idea for this project was for it to be used as a storage container to p
 The initial design was very tounge in cheek and honestly made a quirky party gift when the programming was reversed; if the alcohol content was detected above a certain level.. The box would unlock itself to reveal.. more alcohol!
 
   <img src="/images/Lockbox_Front.JPG" alt="Lockbox_Front" style="width:300;height:auto;">
-  <img src="/images/Lockbox_Back.JPG" alt="drawing" width="300" height"="auto"/>
+  <img src="/images/Lockbox_Back.JPG" alt="drawing" width="300" height"="auto">
 
 
 Note: Resize Images
 
-<p>
-<img src="/images/Lockbox_Blue.JPG" alt="drawing" width="300" height"="auto"/>
-<img src="/images/Lockbox_Red.JPG" alt="drawing" width="300" height"="auto"/>
-<img src="/images/Lockbox_Green.JPG" alt="drawing" width="300" height"="auto"/>
-</p>
+<img src="/images/Lockbox_Blue.JPG" alt="drawing" width="300" height"="auto">
+<img src="/images/Lockbox_Red.JPG" alt="drawing" width="300" height"="auto">
+<img src="/images/Lockbox_Green.JPG" alt="drawing" width="300" height"="auto">

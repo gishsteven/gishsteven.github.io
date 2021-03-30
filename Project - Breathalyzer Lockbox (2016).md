@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: BreathalyzerLockbox(2016)
 permalink: /Breathalyzer_Lockbox/
 published: true

@@ -1,3 +1,8 @@
+---
+layout: post
+published: true
+---
+
 The Breathalyzer Lockbox
 This was a small project built with the Intel Edison (Computer-On-Module), an LCD Display, and an Alcohol Sensor. A servo was used for the locking mechanicasm. 
 

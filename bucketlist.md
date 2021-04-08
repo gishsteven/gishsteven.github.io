@@ -2,7 +2,7 @@
 layout: page
 title: Bucketlist
 permalink: /bucketlist/
-published: true
+published: false
 ---
 
 ## Travel
@@ -27,16 +27,12 @@ published: true
 -   California, Solvang Town
 
 ## Misc
-- Finish Boiling Crab Date List (Current Tally: 60 People)
+- ~~Go on 50 Dates~~ [Dates](https://docs.google.com/spreadsheets/d/1U5bYBMyBk6Hz2FhlytnsDX27S2MdtfrFZsbNsRGAg-U/edit?usp=sharing)
 - Hike Mt. Diablo
-- <strike>CPR Certification</strike>
-- <strike>First Aid Certification</strike>
+- ~~CPR Certification~~
+- ~~First Aid Certification~~
 - Learn Ballroom Dancing
-- Learn How to Mix Drinks
-- Kayaking
-- White Water Rafting
-- Get a Tattoo
-- Learn to Drive a Manual Car
+- ~~Get a Tattoo~~
 - Three Activities [Get my hands dirty] : Bouldering, Volleyball, Calligraphy
 - Scuba Diving
 - Volunteer with Children
@@ -47,7 +43,6 @@ published: true
 - Go Camping Everywhere
 - Paint & Wine Studio
 - <strike>Get employed at a Coffee Shop</strike>
-- Get employed as a Server
 - <strike>Go Vegetarian for 49 Days</strike>
 - Do a One-Handed Pull-up
 - Learn Basic Astrology

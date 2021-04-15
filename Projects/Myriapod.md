@@ -2,7 +2,7 @@
 layout: page
 title: Myriapod
 permalink: /Myriapod/
-published: test
+published: false
 ---
 
 # TBD

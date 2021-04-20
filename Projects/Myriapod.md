@@ -2,7 +2,7 @@
 layout: post
 title: Myriapod
 permalink: /Myriapod/
-published: false
+published: post
 ---
 
 # TBD

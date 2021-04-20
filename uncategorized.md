@@ -27,7 +27,4 @@ published: true
  - [ ] Add Projects: Myriapod and Breathalyzer Lockbox
  - [ ] Add Date Ideas
 
-# TEST
-Uploading an Image small size
-![Alcohol Sensor Lockbox_back](/images/IMG_1339.JPG)
-<img src="/images/IMG_1339.JPG" alt="drawing" width="200"/>
+

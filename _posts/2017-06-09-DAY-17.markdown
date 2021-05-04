@@ -1,3 +1,8 @@
+---
+layout: post
+published: false
+---
+
 Hm, I made a log for this date a while ago, it looks like I haven't saved it.
 
 I had a long day at work.

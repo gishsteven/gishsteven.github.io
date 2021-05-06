@@ -11,4 +11,4 @@ order: 1
 
 ### Contact me
 
-[stevennam.le@sjsu.edu](mailto:stevennam.le@sjsu.edu)
+[gishsteven@gmail.com](mailto:gishsteven@gmail.com)

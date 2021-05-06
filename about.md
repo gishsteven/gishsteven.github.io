@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 published: true
+order: 1
 ---
 
 <h1>In Development!</h1>

@@ -2,7 +2,6 @@
 layout: post
 title: BreathalyzerLockbox(2016)
 permalink: /Breathalyzer_Lockbox/
-published: true
 ---
 
 The Breathalyzer Lockbox
@@ -16,10 +15,6 @@ The initial design was very tounge in cheek and honestly made a quirky party gif
 
   <img src="/images/Lockbox_Front.JPG" alt="Lockbox_Front" style="width:300;height:auto;">
   <img src="/images/Lockbox_Back.JPG" alt="drawing" style="width:300;height:auto;">
-
-
-Note: Resize Images
-
-<img src="/images/Lockbox_Blue.JPG" alt="drawing2" style="width:300;height:auto;">
-<img src="/images/Lockbox_Red.JPG" alt="drawing3" style="width:300;height:auto;">
-<img src="/images/Lockbox_Green.JPG" alt="drawing4" style="width:300;height:auto;">
+  <img src="/images/Lockbox_Blue.JPG" alt="drawing2" style="width:300;height:auto;">
+  <img src="/images/Lockbox_Red.JPG" alt="drawing3" style="width:300;height:auto;">
+  <img src="/images/Lockbox_Green.JPG" alt="drawing4" style="width:300;height:auto;">

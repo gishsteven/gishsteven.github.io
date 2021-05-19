@@ -2,4 +2,7 @@
 Personal Website
 
 - TODO
-- Create a Directory that lists all my projects.
+- [ ] List out Projects
+- [ ] Update Library
+- [ ] Learn how to format posts (after content has been generated...)
+- [ ] Update Profile Photo

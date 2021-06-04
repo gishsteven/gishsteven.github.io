@@ -5,10 +5,8 @@ permalink: /library/
 published: true
 ---
 
-<table border="1" style="width:100%">
-
 Title | Author
------------- | -------------
+-|-
 68 | John Kim
 1984 | George Orwell
 1Q84| Haruki Murakami
@@ -87,7 +85,7 @@ Think and Grow Rich: The Landmark Bestseller Now Revised and Updated for the 21s
 This I Believe: The Personal Philosophies of Remarkable Men and Women | Jay Allison
 This Is How You Lose Her | Junot DÃ­az
 To Kill a Mockingbird | Harper Lee
-Transparency | John   Kim
+Transparency | John Kim
 Who Moved My Cheese? | Spencer Johnson
 World War Z: An Oral History of the Zombie War | Max Brooks
 

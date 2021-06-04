@@ -5,6 +5,8 @@ permalink: /library/
 published: true
 ---
 
+<table border="1" style="width:100%">
+
 Title | Author
 ------------ | -------------
 68 | John Kim

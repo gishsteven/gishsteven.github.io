@@ -5,9 +5,9 @@ permalink: /library/
 published: true
 ---
 
-Title | Author
--|-
-68 | John Kim
+|Title | Author|
+|-|-|
+|68 | John Kim
 1984 | George Orwell
 1Q84| Haruki Murakami
 212 the Extra Degree | Sam Parker

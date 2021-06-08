@@ -77,7 +77,7 @@ The Perks of Being a Wallflower | Stephen Chbosky
 The Picture of Dorian Gray | Oscar Wilde
 The Power of Habit: Why We Do What We Do in Life and Business | Charles Duhigg
 The Richest Man in Babylon | George S. Clason
-The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life | Mark Manson
+The Subtle Art of Not Giving a Fuck: A Counterintuitive Approach to Living a Good Life | Mark Manson
 The Time Traveler's Wife | Audrey Niffenegger
 The Vietnam War: An Intimate History | Geoffrey C. Ward
 The Virtue of Selfishness: A New Concept of Egoism | Ayn Rand

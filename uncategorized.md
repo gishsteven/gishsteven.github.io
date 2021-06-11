@@ -10,6 +10,7 @@ published: true
 
  - [If You Can](https://www.etf.com/docs/IfYouCan.pdf) 
  - [The Richest Man in Babylon](http://www.ccsales.com/the_richest_man_in_babylon.pdf)
+ - [Personal Finance Reddit Ages 25-30](https://www.reddit.com/r/personalfinance/wiki/early_career)
 
 
 # What I am Learning in 2021

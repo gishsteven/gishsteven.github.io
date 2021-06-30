@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BreathalyzerLockbox(2016)
+title: Project: Breathalyzer Lockbox
 permalink: /Breathalyzer_Lockbox/
 ---
 

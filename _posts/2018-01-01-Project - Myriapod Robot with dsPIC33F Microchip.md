@@ -17,6 +17,10 @@ The Myriapod Robot
 This was a year long senior project built with three (3) dsPIC33F Microcontrollers, an IR Sensor, a Gyroscope, thirty-six (36) servos, and a lot of tears.
 MPLAB® X IDE v3.61 and the MPLAB® XC16 compiler was used as the programming and compiling interface of the microchips.
 
+## Demo
+|[Video Demo](https://www.youtube.com/embed/G5ihYtaaYIc)|
+|---|
+
 ## Tools & Software Used
  * Solidworks
  * MPLAB X IDE

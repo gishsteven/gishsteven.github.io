@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project: Myriapod Robot with dsPIC33F Microchip
+title: Project - Myriapod Robot with dsPIC33F Microchip
 permalink: /Myriapod_Robot/
 ---
 

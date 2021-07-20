@@ -6,7 +6,8 @@ published: true
 ---
 
 # TBD
-*Currenty a Manufacturing Engineer at Zap Surgical Systems with a background in Computer Engineering*
+## - Computer Engineer by education.
+## - Manufacturing Engineer by training.
 
 ## Skills
 ### Programming Languages
@@ -33,13 +34,13 @@ published: true
 - Solidworks ePDM
 
 ## Experience
-Manufacturing Engineer, Zap Surgical Systems (April 2016 - Current)
-Materials Testing Intern, Underwriters Laboratory (June 2014 - August 2014)
+- Manufacturing Engineer, Zap Surgical Systems (April 2016 - Current)
+- Materials Testing Intern, Underwriters Laboratory (June 2014 - August 2014)
 
 ## Education
-San Jose State University – Bachelor of Science, Computer Engineering	May 2018
+- San Jose State University – Bachelor of Science, Computer Engineering	May 2018
 
 ## Involvement
-President, Alpha Phi Omega – National Co-Ed Service Organization		
-Officer, Software & Computer Engineering Society – Computer Engineer Academic Organization
-Eagle Scout, Boy Scouts of America – National Value-Based Youth Development Organization
+- President, Alpha Phi Omega – National Co-Ed Service Organization		
+- Officer, Software & Computer Engineering Society – Computer Engineer Academic Organization
+- Eagle Scout, Boy Scouts of America – National Value-Based Youth Development Organization

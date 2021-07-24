@@ -6,7 +6,7 @@ published: true
 order: 1
 ---
 
-<img src="/images/sndl.jpg" alt="Profile Picture" style="width:128px;height:128px;">
+<img src="/images/sndl.jpg" alt="Profile Picture" style="width:256px;height:256x;align:center">
 
 - Computer Engineering graduate from San Jose State Univeristy
 - Manufacturing Engineer employed at [Zap Surgical Systems Inc.](https://zapsurgical.com/)
@@ -14,7 +14,7 @@ order: 1
 
 
 Meet my long haired tuxedo cat, Maple.
-[ ] Someone remind me to upload an image...
+<img src="/images/Maple.Png" alt="Maple Tuxedo Cat" style="width:256px;height:256px;align:center">
 
 
 ### Contact me

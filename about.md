@@ -14,7 +14,7 @@ order: 1
 
 
 Meet my long haired tuxedo cat, Maple.
-<img src="/images/Maple.png" alt="Maple Tuxedo Cat" style="width:256px;height:256px;align:center">
+<img src="/images/Maple.PNG" alt="Maple Tuxedo Cat" style="width:256px;height:256px;align:center">
 
 
 ### Contact me

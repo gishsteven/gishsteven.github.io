@@ -6,9 +6,8 @@ published: true
 order: 2
 ---
 
-# TBD
- - Computer Engineer by education.
- - Manufacturing Engineer by training.
+ # Computer Engineer by education.
+ # Manufacturing Engineer by training.
 
 ## Skills
 ### Programming Languages

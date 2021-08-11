@@ -16,17 +16,19 @@ order: 2
 - Assembly Language
 - Python
 - Octave
+- 
 ### Tools
 - Solidworks
 - Eclipse
 - MPLAB X
 - Verilog
 - Visual Studios
+- 
 ### Technologies
 - FPGA
 - dsPIC Microcontrollers
 - LPC1769 Cortex-M3 Microcontroller
-### Operating Systems
+
 ### Product Management Tools
 - Quickbase
 - Netsuite
